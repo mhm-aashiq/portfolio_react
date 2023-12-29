@@ -52,7 +52,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-                <p>PHP, .NET For Back-End</p>
+                <p>PHP| .NET For Back-End</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -64,28 +64,25 @@ const Services = () => {
 
         <article className='services'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Lecturer</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className="service__list-icon" />
-               <p>lorem ipsum hello world im here from sri lanka</p>
+               <p>Grade 6 to 12 ICT School Syllabus</p>
+            </li>
+           
+            <li>
+              <BiCheck className="service__list-icon" />
+                <p>Creating interests of ICT for students</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-                <p>lorem ipsum hello world im here from sri lanka</p>
+                <p>deliver ideas to become a professional in IT industry</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-                <p>lorem ipsum hello world im here from sri lanka</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-                <p>lorem ipsum hello world im here from sri lanka</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-                <p>lorem ipsum hello world im here from sri lanka</p>
+                <p>Exam Preparations</p>
             </li>
           </ul>
         </article>

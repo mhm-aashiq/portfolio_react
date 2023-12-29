@@ -41,10 +41,14 @@ const About = () => {
           </div>
 
           <p>
-             I’m an enthusiastic, self-motivated, reliable, responsible, and hardworking person. I can adaptable to the all challenging situations and
-             working with team. A highly skilled and driven software engineer
-             with more than a year in industry level experience and hands on
-             experience in Front-end development.
+              Dynamic and results-oriented SAP ABAP professional with a
+              solid foundation built upon one year of hands-on experience in
+              designing, developing, and implementing innovative solutions
+              within the SAP ecosystem and hands on experience in Front-end development. Proficient in creating and optimizing
+              ABAP programs, reports, interfaces, and enhancements to meet
+              diverse business requirements. Proven expertise in analyzing
+              complex technical issues, delivering effective solutions in
+              alignment with project timelines and organizational objectives.
           </p>
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
           </div>

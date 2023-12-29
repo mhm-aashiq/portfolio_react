@@ -17,26 +17,26 @@ import 'swiper/css/pagination';
 const data=[
   {
     avatar:AVTR1,
-    name:'Aashiq',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur, dolorem asperiores incidunt molestiae nisi in ad! Atque nemo, ducimus ad delectus incidunt accusantium hic debitis voluptate obcaecati quam iure rerum.'
+    name:'Munshif Ahamed',
+    review: 'While we working as a group project He is having good / interest in creating UIs and quick understanding the concept..'
 
   },
   {
     avatar:AVTR2,
-    name:'Aashiq',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur, dolorem asperiores incidunt molestiae nisi in ad! Atque nemo, ducimus ad delectus incidunt accusantium hic debitis voluptate obcaecati quam iure rerum.'
-
-  },
-  {
-    avatar:AVTR3,
-    name:'Aashiq',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur, dolorem asperiores incidunt molestiae nisi in ad! Atque nemo, ducimus ad delectus incidunt accusantium hic debitis voluptate obcaecati quam iure rerum.'
+    name:'Hassan Saajidh',
+    review: 'While we working as a group project He is having good ideas and leadership qualities by helping members in the team.'
 
   },
   {
     avatar:AVTR4,
-    name:'Aashiq',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur, dolorem asperiores incidunt molestiae nisi in ad! Atque nemo, ducimus ad delectus incidunt accusantium hic debitis voluptate obcaecati quam iure rerum.'
+    name:'Mohammed Aadhil',
+    review: 'passoinate in planning, creating ideas before starting a project. having the qualities of a leader, member and best friend'
+
+  },
+  {
+    avatar:AVTR3,
+    name:'Mohamed Sadir',
+    review: 'Ability to communicate, problem solver and Always keep trying and having good intentions to collabrate and work with others.'
 
   },
 ]

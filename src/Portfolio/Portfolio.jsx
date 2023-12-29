@@ -20,8 +20,8 @@ const data = [
     id:2,
     image: IMG2,
     title: 'React - Latest Portfolio',
-    github: 'https://github.com/mhm-aashiq/ADD',
-    demo: 'https://main--lustrous-conkies-ac30f5.netlify.app/'
+    github: 'https://github.com/mhm-aashiq/portfolio_react',
+    demo: 'https://mhm-aashiq.github.io/portfolio_react'
   },
   {
     id:3,
@@ -51,6 +51,7 @@ const data = [
     github: 'https://github.com/mhm-aashiq/test_todo',
     demo: 'https://mhm-aashiq.github.io/test_todo/'
   },
+
 ]
 
 const Portfolio = () => {
@@ -58,7 +59,22 @@ const Portfolio = () => {
     <section id='portfolio'>
       <h5>My recent Works</h5>
       <h2>Portfolio</h2>
+    
       <div className="container portfolio__container">
+      <article  className='portfolio__item'>
+            <div className="portfolio__item-image">
+            <iframe 
+        src="https://www.youtube.com/embed/tgbNymZ7vqY">
+        </iframe>
+            </div>
+            <h3>IOT Project - An automatic Door system</h3>
+            <div className="portfolio__item-cta">
+              
+              <a href='https://www.youtube.com/embed/tgbNymZ7vqY' className='btn' target='_blank'>Live Demo</a>
+            </div>
+          </article>
+    
+    
     {
       data.map(({id,image,title,github,demo}) => {
         return(
@@ -74,11 +90,11 @@ const Portfolio = () => {
               <a href={demo} className='btn' target='_blank'>Live Demo</a>
             </div>
           </article>
-    
-          
     )
   })
+ 
     }
+     
   </div>
     </section>
   )
